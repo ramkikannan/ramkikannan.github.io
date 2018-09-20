@@ -5,7 +5,7 @@ title: Research
 ## Funding
 
 Year    | Agency    | Role  |Description    | Amount (in USD)   |
----     | ---       | ----  | -----         | ------            |
+------  | -----     | ----- |-------        | ------            |
 
 2016    |	NSF	    |       |   Travel Grant for PPoPP  | $1500 |
 2016-17	|DOE-LDRD   |PI	    | Mini-Apps for Data-Intensive Discovery on Big Data Architectures	    | $460,000  |
