@@ -51,6 +51,8 @@ gitlab: ramkikannan
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
+scholar: d59WLM4AAAAJ
+dblp: hd/k/Kannan:Ramakrishnan
 email: kannanr@ornl.gov
 
 authors:
@@ -76,8 +78,11 @@ width: normal
 # paginate: 5
 # paginate_path: "blog/:num/"
 
-# if you don't need projects, comment the *projects* configs below
+# if you don't need research, comment the *research* configs below
 research: true
+
+# if you don't need publications, comment the *publications* configs below
+publications: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
