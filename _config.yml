@@ -78,15 +78,15 @@ width: normal
 # paginate: 5
 # paginate_path: "blog/:num/"
 
+# if you don't need "about" or "blog", comment them out below
+about: true
+#blog: true
+
 # if you don't need research, comment the *research* configs below
 research: true
 
 # if you don't need publications, comment the *publications* configs below
 publications: true
-
-# if you don't need "about" or "blog", comment them out below
-about: true
-#blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
