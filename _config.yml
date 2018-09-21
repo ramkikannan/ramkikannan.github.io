@@ -22,7 +22,7 @@ url: https://ramkikannan.github.io
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-1153718'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -98,7 +98,7 @@ show-tags: true
 related: true
 
 # Display links for next and previous posts for the specified categories
-post-advance-links: [blog]
+# post-advance-links: [blog]
 
 # show author block at the end of a post ?
 show-author: true
