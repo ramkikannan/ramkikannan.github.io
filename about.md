@@ -2,8 +2,8 @@
 title: About
 layout: page
 ---
-#responsive-image {  width: 100%;  height: auto; } 
-<img src="../fig/titan.jpg" id="responsive-image">
+
+![Profile Image](fig/titan.jpg){:class="img-responsive"}
 
 Generally, people know me as Ramki. I am a Computational Data Scientist in Oak Ridge National Laboratory focusing on large scale data mining and machine learning algorithms on HPC systems and modern architectures with applications from scientific domain and many different internet services. I received my Ph.D in Computer Science from College of Computing, Georgia Institute of Technology(GaTech) advised by Prof. Haesun Park. Prior to Ph.D., I worked on Data Analytics group at IBM TJ Watson Research Center and was an IBM Master Inventor. Under the advise of Prof. Narahari, I graduated from Indian Institute of Science with M.Sc (Engg). 
 
