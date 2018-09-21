@@ -1,3 +1,8 @@
+---
+layout: page
+title: Publications
+---
+
 ## Selected Publications ([DBLP List](https://dblp.uni-trier.de/pers/hd/k/Kannan:Ramakrishnan))
 
 1. Oguz Kaya, Ramakrishnan Kannan, and Grey Ballard. 2018. Partitioning and Communication Strategies for Sparse Non-negative Matrix Factorization. In Proceedings of the 47th International Conference on Parallel Processing (ICPP 2018). ACM, New York, NY, USA, Article 90, 10 pages. DOI: https://doi.org/10.1145/3225058.3225127
