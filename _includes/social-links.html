@@ -71,6 +71,12 @@
         </a>
     {% endif %}
 
+    {% if site.dblp %}
+        <a class="link" data-title="https://dblp.uni-trier.de/pers/{{ site.dblp }}" href="https://dblp.uni-trier.de/pers/{{ site.dblp }}" target="_blank">
+            <svg class="icon icon-dblp"><use xlink:href="#icon-dblp"></use></svg>
+        </a>
+    {% endif %}
+
     {% if site.stackoverflow %}
         <a class="link" data-title="stackoverflow.com/users/{{ site.stackoverflow }}" href="http://stackoverflow.com/users/{{ site.stackoverflow }}" target="_blank">
             <svg class="icon icon-stackoverflow"><use xlink:href="#icon-stackoverflow"></use></svg>
