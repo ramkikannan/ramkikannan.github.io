@@ -5,6 +5,7 @@ title: Research
 ## Funding
 |Year    | Agency    | Role  |Description    | Amount (in USD)   |
 |:------  | :-----     | :----- |:-------:        | ------:            |
+ 
  2017-19 |DOE-LDRD  | PI    | Scalable Non-linear Unmixing with Physical Constraints for Scientific Data    | $900,000 |
  2017-19 | DOE-LDRD	| co-PI	| Accelerating end-to-end prediction of physical phenomena by interleaving analytics with multiscale simulations on Exascale architectures | $600,000
   2016-19 | NSF	    | External Collaborator | High Performance Low Rank Approximation for Scalable Data Analytics	| $900,000 |
