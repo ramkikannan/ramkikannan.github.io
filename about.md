@@ -1,6 +1,6 @@
 ---
-title: About
 layout: page
+title: About
 ---
 
 <img src="../figs/titan.jpg" width="100%">
