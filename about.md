@@ -13,7 +13,7 @@ Generally, people know me as Ramki. I am a Computational Data Scientist in Oak R
 
 ERP Information : Visit [my IISc webpage](http://clweb.csa.iisc.ernet.in/rkrishnan/) for External registration information. Not well maintained. 
 
-<img src="../figs/officeaddress.png"> 
+<img src="../figs/officeaddress.png" style="width:5%!important;"> 
 One Bethel Valley Rd, 
 P.O. Box 2008, MS-6085, 
 Oak Ridge, TN 37831-6086
