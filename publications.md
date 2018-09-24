@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+sitemap: true
 ---
 
 ## Selected Publications ([DBLP List](https://dblp.uni-trier.de/pers/hd/k/Kannan:Ramakrishnan))

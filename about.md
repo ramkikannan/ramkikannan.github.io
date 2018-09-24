@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+sitemap: true
 ---
 
 <img src="../figs/titan.jpg">
