@@ -34,9 +34,9 @@ TKDE, TPAMI, IEEE Signal Processing Letters, DAMI, JMLC, ESWA, TKDD, Entropy, In
 
 ## Invited Talks
 
-* IISC AANA National Meeting on Big Data, Encryption & Cyber Security, and Technology in Healthcare Chicago, IL, August 26th, 2018 - [Presentation](files/iiscaana18.pdf) 
+* IISC AANA National Meeting on Big Data, Encryption & Cyber Security, and Technology in Healthcare Chicago, IL, August 26th, 2018 - [Presentation](../files/iiscaana18.pdf) 
 * Practical Matrix Factorization for Spatial and Spatio-Temporal Data - [SSTDM workshop in ICDM 2018](https://research.csc.ncsu.edu/stac/conferences/ICDM-SSTDM17/) 
-* Wakeforest University - 21-July-2017 - [Announcement](figs/wakeforest.jpg) [Presentation](files/wakeforest.pdf)
-* Distributed Nonnegative Tensor Low Rank Approximation for Large-Scale Clustering - Optimization Methods and Parallel Computing for Tensor Problems - Part I of II - SIAM CSE 2017 - [Abstract](http://meetings.siam.org/sess/dsp_talk.cfm?p=81557) [Presentation](files/siamcse18.pdf)
+* Wakeforest University - 21-July-2017 - [Announcement](../figs/wakeforest.jpg) [Presentation](../files/wakeforest.pdf)
+* Distributed Nonnegative Tensor Low Rank Approximation for Large-Scale Clustering - Optimization Methods and Parallel Computing for Tensor Problems - Part I of II - SIAM CSE 2017 - [Abstract](http://meetings.siam.org/sess/dsp_talk.cfm?p=81557) [Presentation](../files/siamcse18.pdf)
 * SOA and zSeries, In the conference of Leverage the Smart SOA-IBM developerworks, Chennai, 2009
 * Enterprise Modernization using IBM Host Access Transformation Services, Rational Software Development Conference, Bangalore,  2007
