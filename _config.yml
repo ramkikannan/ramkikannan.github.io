@@ -1,6 +1,6 @@
 # main text of home
 name: Ramakrishnan(Ramki) Kannan
-bio: Computational Data Scientist
+bio: Team Lead for Computational Artificial Intelligence and Machine Learning (CAIML)
 
 # twitter summary info
 description: Personal Website of Ramki
@@ -58,7 +58,7 @@ email: kannanr@ornl.gov
 authors:
     ramkikannan:
         name: Ramakrishnan(Ramki) Kannan
-        bio: Computational Data Scientist
+        bio: Computational Data Scientist & Joint Faculty GATech
         external-image: false
         picture: assets/images/profile.jpg
         # twitter: johndoe

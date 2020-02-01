@@ -18,10 +18,11 @@ sitemap: true
 
 * Minisymposium titled [Constrained Low-Rank Matrix and Tensor Approximations](http://users.wfu.edu/ballard/SIAM-ALA18/) in SIAM ALA18
 * [Fragile Earth - Theory Guided Data Science to Enhance Scientific Discovery (FEED)](https://ai4good.org/kdd-2018-workshop/) Workshop at KDD'2018
+* [Fragile Earth - Theory Guided Data Science to Enhance Scientific Discovery (FEED)](https://ai4good.org/feed2019/) Workshop at KDD'2019
 
 ## Program Committees
 
-KDD'2015, CIKM'2015, ICDM'2015, KDD'2016, ICML'2017, KDD'2018,  SC'2019
+KDD'2015, CIKM'2015, ICDM'2015, KDD'2016, ICML'2017, KDD'2018,  KDD'2019, SC'2019, KDD'2020
 
 ## Journal Reviewer
 
