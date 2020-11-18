@@ -22,16 +22,17 @@ sitemap: true
 
 ## Program Committees
 
-KDD'2015, CIKM'2015, ICDM'2015, KDD'2016, ICML'2017, KDD'2018,  KDD'2019, SC'2019, KDD'2020
+KDD'2015, CIKM'2015, ICDM'2015, KDD'2016, ICML'2017, KDD'2018,  KDD'2019, SC'2019, KDD'2020, SC'2021
 
 ## Journal Reviewer
 
 TKDE, TPAMI, IEEE Signal Processing Letters, DAMI, JMLC, ESWA, TKDD, Entropy, Interfaces, KAIS, Information Sciences
 
-## Grant Proposal Reviewer
+## Honor and Awards
 
-* Tobacco-Related Disease Research Program(TRDRP)
-* DOE-LDRD
+* November 2019: Lead the team that listed OLCF Summit at 3rd place on [Graph500](https://graph500.org/)
+* November 2020: Finalist, Gordon Bell Prize, ACM/IEEE Conf. Supercomputing (SC) (Winners to be announced in November 2020)
+
 
 ## Invited Talks
 

@@ -6,7 +6,7 @@ sitemap: true
 
 <img src="../figs/titan.jpg">
 
-Generally, people know me as Ramki. I am the team lead for Computational Artificial Intelligence and Machine Learning(CAIML) in Oak Ridge National Laboratory focusing on large scale data mining and machine learning algorithms on HPC systems and modern architectures with applications from scientific domain and many different internet services. I received my Ph.D in Computer Science from College of Computing, Georgia Institute of Technology(GaTech) advised by Prof. Haesun Park. Prior to Ph.D., worked on Data Analytics group at IBM TJ Watson Research Center and was an IBM Master Inventor. Under the advise of Prof. Narahari, graduated from Indian Institute of Science with M.Sc (Engg). 
+Generally, people know me as Ramki. I am the Group leader for Discrete Algorithms in Oak Ridge National Laboratory focusing on large scale data mining, machine learning and graph algorithms on HPC systems and modern architectures with applications from scientific domain and many different internet services. I received my Ph.D in Computer Science from College of Computing, Georgia Institute of Technology(GaTech) advised by Prof. Haesun Park. Prior to Ph.D., worked on Data Analytics group at IBM TJ Watson Research Center and was an IBM Master Inventor. Under the advise of Prof. Narahari, graduated from Indian Institute of Science with M.Sc (Engg). 
 
 ## Research Interests 
 

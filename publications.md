@@ -6,6 +6,17 @@ sitemap: true
 
 ## Selected Publications ([DBLP List](https://dblp.uni-trier.de/pers/hd/k/Kannan:Ramakrishnan))
 
+
+1. Cristina Garcia-Cardona, Ramakrishnan Kannan, Travis Johnston, Thomas Proffen, Katharine Page, Sudip K. Seal:
+Structure Prediction from Neutron Scattering Profiles: A Data Sciences Approach. BigData 2020: Accepted
+1. Ramakrishnan Kannan, Piyush Sao, Hao Lu, Drahomira Hermannova, Vijay Thakkar, Robert Patton, Richard Vuduc, Thomas Potok: Scalable Knowledge Graph Analytics at 136 PetaFLOPS. International Conference for High Performance Computing, Networking, Storage and Analysis (SC'20): Accepted, Gordon Bell Finalist
+1. Srinivas Eswar, Koby Hayashi, Grey Ballard, Ramakrishnan Kannan, Michael Matheson, Heasun Park: PLANC: Parallel Low Rank Approximation with Non-negativity Constraints. ACM Transacation on Mathematical Software(TOMS): Accepted
+1. Piyush Sao, Ramakrishnan Kannan, Prasun Gera, Richard W. Vuduc:
+A supernodal all-pairs shortest path algorithm. PPoPP 2020: 250-261
+1. 	Cristina Garcia-Cardona, Ramakrishnan Kannan, Travis Johnston, Thomas Proffen, Katharine Page, Sudip K. Seal:
+Learning to Predict Material Structure from Neutron Scattering Data. BigData 2019: 4490-4497
+1. Piyush Sao, Ramakrishnan Kannan:
+Multifrontal Non-negative Matrix Factorization. PPAM (1) 2019: 543-554
 1. Koby Hayashi, Grey Ballard and Ramakrishnan. 2018.
 Parallel Nonnegative CP Decomposition of Dense Tensors.
 Accepted at 25th IEEE International Conference on High Performance Computing, Data, And Analytics (HiPC'18)
