@@ -6,7 +6,8 @@ sitemap: true
 
 ## Selected Publications ([DBLP List](https://dblp.uni-trier.de/pers/hd/k/Kannan:Ramakrishnan))
 
-
+1. 	Srinivas Eswar, Koby Hayashi, Grey Ballard, Ramakrishnan Kannan, Richard W. Vuduc, Haesun Park:
+Distributed-memory parallel symmetric nonnegative matrix factorization. SC 2020: 74
 1. Cristina Garcia-Cardona, Ramakrishnan Kannan, Travis Johnston, Thomas Proffen, Katharine Page, Sudip K. Seal:
 Structure Prediction from Neutron Scattering Profiles: A Data Sciences Approach. BigData 2020: Accepted
 1. Ramakrishnan Kannan, Piyush Sao, Hao Lu, Drahomira Hermannova, Vijay Thakkar, Robert Patton, Richard Vuduc, Thomas Potok: Scalable Knowledge Graph Analytics at 136 PetaFLOPS. International Conference for High Performance Computing, Networking, Storage and Analysis (SC'20): Accepted, Gordon Bell Finalist

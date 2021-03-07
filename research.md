@@ -7,6 +7,8 @@ sitemap: true
 
 |Year    | Agency    | Role  |Description    | Amount (in USD)   |
 |:------  | :-----     | :----- |:-------        | ------:      |
+2020-2024 | DOE | co-PI |  Advances in Machine Learning to Improve Scientific| Discovery at Exascale and Beyond (ASCEND) | $1,200,000
+2019-2023 | DOE | co-PI | Exalearn : Exascale Machine Learning Technologies | $3,000,000
  2017-19 |DOE-LDRD  | PI    | Scalable Non-linear Unmixing with Physical Constraints for Scientific Data    | $900,000 |
  2017-19 | DOE-LDRD | co-PI  | Accelerating end-to-end prediction of physical phenomena by interleaving analytics with multiscale simulations on Exascale architectures | $600,000
   2016-19 | NSF      | Ext Collab | High Performance Low Rank Approximation for Scalable Data Analytics  | $900,000 |
@@ -17,8 +19,11 @@ sitemap: true
 ## Organizing Committees
 
 * Minisymposium titled [Constrained Low-Rank Matrix and Tensor Approximations](http://users.wfu.edu/ballard/SIAM-ALA18/) in SIAM ALA18
-* [Fragile Earth - Theory Guided Data Science to Enhance Scientific Discovery (FEED)](https://ai4good.org/kdd-2018-workshop/) Workshop at KDD'2018
-* [Fragile Earth - Theory Guided Data Science to Enhance Scientific Discovery (FEED)](https://ai4good.org/feed2019/) Workshop at KDD'2019
+* [Fragile Earth - Theory Guided Data Science to Enhance Scientific Discovery (FEED)](https://ai4good.org/what-we-do/fragile-earth/kdd-2018/) Workshop at KDD'2018
+* [Fragile Earth - Theory Guided Data Science to Enhance Scientific Discovery (FEED)](https://ai4good.org/what-we-do/fragile-earth/kdd-2019/) Workshop at KDD'2019
+* [Fragile Earth - Theory Guided Data Science to Enhance Scientific Discovery (FEED)](https://ai4good.org/what-we-do/fragile-earth/kdd-2020/) Workshop at KDD'2020
+* [ORNL AI Workshop 2019](https://ornlcda.github.io/ornlaiws2019/) 
+* [PHYSICS-GUIDED AI TO ACCELERATE SCIENTIFIC DISCOVERY](https://sites.google.com/vt.edu/pgai-aaai-20)
 
 ## Program Committees
 

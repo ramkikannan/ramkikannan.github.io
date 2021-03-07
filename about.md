@@ -10,7 +10,7 @@ Generally, people know me as Ramki. I am the Group leader for Discrete Algorithm
 
 ## Research Interests 
 
-* Scalable Data mining and Machine learning on HPC systems and big data architectures
+* Scalable Data mining, Machine learning and Graph Algorithms on HPC systems and big data architectures
 * Linear and Non-linear dimensionality reduction algorithms such as Matrix & tensor factorization, autoencoders, factor models and Low Rank Approximation
 * Principal investigator for [Parallel Low Rank Approximation with Non-negative Constraints (PLANC)](https://ramkikannan.github.io/planc-api)
 
