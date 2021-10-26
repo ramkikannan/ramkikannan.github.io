@@ -6,8 +6,6 @@ sitemap: true
 
 ## Selected Publications ([DBLP List](https://dblp.uni-trier.de/pers/hd/k/Kannan:Ramakrishnan))
 
-<bibtex src="ramki.bib"></bibtex>
-
 <div class="bibtex_display"></div>
 
 ## Patents
