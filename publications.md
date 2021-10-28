@@ -19,14 +19,14 @@ sitemap: true
 								<span class="if month"><span class="month"></span>,</span>
 								<span class="if year"><span class="year"></span>.</span>
 								<span class="if note">(<span class="note"></span>)</span>
-								<a class="bibtexVar" extra="BIBTEXKEY" onclick="w3.toggleShow('#+BIBTEXKEY+')" style="cursor:pointer;">
+								<!-- <a class="bibtexVar" extra="BIBTEXKEY" onclick="w3.toggleShow('#+BIBTEXKEY+')" style="cursor:pointer;">
 									<span class="w3-border-bottom w3-border-black" style="white-space:nowrap;"><i class="fas fa-book w3-text-blue"></i>&nbsp;BibTeX</span>
 								</a>
 								<div id="+BIBTEXKEY+" class="bibtexVar" extra="BIBTEXKEY" style="display:none;">
 									<div class="w3-border w3-panel w3-light-grey">
 										<pre class="w3-small"><span class="bibtexraw noread"></span></pre>
 									</div>
-								</div>
+								</div> -->
 							</div>
 						</div>
 					</div>
