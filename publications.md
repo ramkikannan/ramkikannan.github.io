@@ -6,7 +6,40 @@ sitemap: true
 
 ## Selected Publications ([DBLP List](https://dblp.uni-trier.de/pers/hd/k/Kannan:Ramakrishnan))
 
-<div class="bibtex_display"></div>
+<!-- <div class="bibtex_display"></div> -->
+<div id="bibtex_display">
+						<div class="bibtex_template" style="display: none;">
+							<div class="w3-section">
+								<span class="if title">
+									<span class="if pdf"><a class="bibtexVar" extra="pdf" href="/publications/+pdf+" target="_blank" rel="noopener noreferrer"><b><i class="far fa-file-pdf w3-text-red"></i> <span class="title"></span></b></a>.</span>
+									<span class="if !pdf"><b><span class="title"></span></b>.</span>
+								</span>
+								<div class="if author" style="display:inline;"><em><span class="author"></span></em>.</div>
+								<span class="if journal"><em><span class="journal"></span></em>,</span>
+								<span class="if publisher"><em><span class="publisher"></span></em>,</span>
+								<span class="if booktitle">In <em><span class="booktitle"></span></em>,</span>
+								<span class="if address"><span class="address"></span>,</span>
+								<span class="if month"><span class="month"></span>,</span>
+								<span class="if year"><span class="year"></span>.</span>
+								<span class="if note">(<span class="note"></span>)</span>
+								<a class="bibtexVar" extra="BIBTEXKEY" onclick="w3.toggleShow('#+BIBTEXKEY+')" style="cursor:pointer;">
+									<span class="w3-border-bottom w3-border-black" style="white-space:nowrap;"><i class="fas fa-book w3-text-blue"></i>&nbsp;BibTeX</span>
+								</a>
+								<div id="+BIBTEXKEY+" class="bibtexVar" extra="BIBTEXKEY" style="display:none;">
+									<div class="w3-border w3-panel w3-light-grey">
+										<pre class="w3-small"><span class="bibtexraw noread"></span></pre>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					
+					<div class="bibtex_structure">
+						<details open class="group year w3-section w3-card-4" extra="DESC number">
+							<summary class="title w3-container w3-theme w3-xlarge"></summary>
+							<div class="templates w3-container"></div>
+						</details>
+					</div>
 
 ## Patents
 
