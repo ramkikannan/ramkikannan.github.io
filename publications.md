@@ -32,10 +32,13 @@ sitemap: true
     </div>
 </div>					
 <div class="bibtex_structure">
-    <details open class="group year w3-section w3-card-4" extra="DESC number">
+    <!-- <details open class="group year w3-section w3-card-4" extra="DESC number">
         <summary class="title w3-container w3-theme w3-xlarge"></summary>
         <div class="templates w3-container"></div>
-    </details>
+    </details> -->
+    <div class="group year" extra="DESC number">
+        <div class="templates"></div>
+    </div>
 </div>
 
 ## Patents
