@@ -10,11 +10,8 @@ sitemap: true
 <div id="bibtex_display">
 						<div class="bibtex_template" style="display: none;">
 							<div class="w3-section">
-								<span class="if title">
-									<span class="if pdf"><a class="bibtexVar" extra="pdf" href="/publications/+pdf+" target="_blank" rel="noopener noreferrer"><b><i class="far fa-file-pdf w3-text-red"></i> <span class="title"></span></b></a>.</span>
-									<span class="if !pdf"><b><span class="title"></span></b>.</span>
-								</span>
 								<div class="if author" style="display:inline;"><em><span class="author"></span></em>.</div>
+                                <span class="if title"><b><span class="title"></span></b>.</span>
 								<span class="if journal"><em><span class="journal"></span></em>,</span>
 								<span class="if publisher"><em><span class="publisher"></span></em>,</span>
 								<span class="if booktitle">In <em><span class="booktitle"></span></em>,</span>
