@@ -4,6 +4,21 @@ title: Publications
 sitemap: true
 ---
 
+## Books
+| [Knowledge Guided Machine Learning](figs/KGMLCoverPage.png) |
+Knowledge-guided Machine Learning  
+
+Accelerating Discovery using Scientific Knowledge and Data  
+
+Edited by: [Anuj Karpatne](https://people.cs.vt.edu/karpatne/), Ramakrishnan Kannan, and [Vipin Kumar](https://www-users.cse.umn.edu/~kumar001/)  
+
+Chapman Hall/CRC Data Mining and Knowledge Discovery Series 
+
+Publication Date: August 15, 2022  
+
+[Link to CRC page of book](https://www.routledge.com/Knowledge-Guided-Machine-Learning-Accelerating-Discovery-using-Scientific/Karpatne-Kannan-Kumar/p/book/9780367693411)       [Link to electronic version of book](https://www.taylorfrancis.com/books/edit/10.1201/9781003143376/knowledge-guided-machine-learning-anuj-karpatne-ramakrishnan-kannan-vipin-kumar) |
+
+
 ## Selected Publications ([DBLP List](https://dblp.uni-trier.de/pers/hd/k/Kannan:Ramakrishnan))
 
 <!-- <div class="bibtex_display"></div> -->
@@ -40,20 +55,6 @@ sitemap: true
         <div class="templates"></div>
     </div>
 </div>
-
-## Books
-| [Knowledge Guided Machine Learning](figs/KGMLCoverPage.png) |
-Knowledge-guided Machine Learning  
-
-Accelerating Discovery using Scientific Knowledge and Data  
-
-Edited by: [Anuj Karpatne](https://people.cs.vt.edu/karpatne/), Ramakrishnan Kannan, and [Vipin Kumar](https://www-users.cse.umn.edu/~kumar001/)  
-
-Chapman Hall/CRC Data Mining and Knowledge Discovery Series 
-
-Publication Date: August 15, 2022  
-
-[Link to CRC page of book](https://www.routledge.com/Knowledge-Guided-Machine-Learning-Accelerating-Discovery-using-Scientific/Karpatne-Kannan-Kumar/p/book/9780367693411)       [Link to electronic version of book](https://www.taylorfrancis.com/books/edit/10.1201/9781003143376/knowledge-guided-machine-learning-anuj-karpatne-ramakrishnan-kannan-vipin-kumar) |
 
 ## Patents
 
