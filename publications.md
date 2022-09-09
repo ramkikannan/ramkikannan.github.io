@@ -5,8 +5,11 @@ sitemap: true
 ---
 
 ## Books
-| [Knowledge Guided Machine Learning](figs/KGMLCoverPage.png) |
-Knowledge-guided Machine Learning  
+
+<img src="figs/KGMLCoverPage.png" align="left" width="200px" 
+href="https://sites.google.com/vt.edu/kgml-book/"/>
+
+**Knowledge-guided Machine Learning**
 
 Accelerating Discovery using Scientific Knowledge and Data  
 
@@ -16,7 +19,9 @@ Chapman Hall/CRC Data Mining and Knowledge Discovery Series
 
 Publication Date: August 15, 2022  
 
-[Link to CRC page of book](https://www.routledge.com/Knowledge-Guided-Machine-Learning-Accelerating-Discovery-using-Scientific/Karpatne-Kannan-Kumar/p/book/9780367693411)       [Link to electronic version of book](https://www.taylorfrancis.com/books/edit/10.1201/9781003143376/knowledge-guided-machine-learning-anuj-karpatne-ramakrishnan-kannan-vipin-kumar) |
+<br clear="left"/>
+
+[Link to CRC page of book](https://www.routledge.com/Knowledge-Guided-Machine-Learning-Accelerating-Discovery-using-Scientific/Karpatne-Kannan-Kumar/p/book/9780367693411) &emsp; &emsp; [Link to electronic version of book](https://www.taylorfrancis.com/books/edit/10.1201/9781003143376/knowledge-guided-machine-learning-anuj-karpatne-ramakrishnan-kannan-vipin-kumar) |
 
 
 ## Selected Publications ([DBLP List](https://dblp.uni-trier.de/pers/hd/k/Kannan:Ramakrishnan))
