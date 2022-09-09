@@ -6,8 +6,9 @@ sitemap: true
 
 ## Books
 
-<img src="figs/KGMLCoverPage.png" align="left" width="200px" 
-href="https://sites.google.com/vt.edu/kgml-book/"/>
+<a href="https://sites.google.com/vt.edu/kgml-book/">
+<img src="figs/KGMLCoverPage.png" align="left" width="200px"/>
+</a>
 
 **Knowledge-guided Machine Learning**
 
