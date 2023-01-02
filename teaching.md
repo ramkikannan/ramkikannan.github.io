@@ -111,6 +111,8 @@ Almost all homework assignments involve very large amount of programming tasks (
 <p style='text-align: justify;'>
 We use Piazza for all announcements and discussion. Everyone must join this class's Piazza (link available on Canvas). Double check that you are joining the correct Piazza! There are multiple concurrent course sections with the same name and course number taking place, e.g., online for OMSA and OMSCS, and campus for Atlanta-based students.
 
+[CSE 6230 Piazza Link](https://piazza.com/gatech/spring2023/cse6230)
+
 The fastest way to get help with homework assignments is to post your questions on Piazza. That way, not only our TAs and instructor can help, your peers can too.
 
 If you prefer that your question addresses to only our TAs and the instructor, you can use the private post feature (i.e., check the "Individual Students(s) / Instructors(s)" radio box).
