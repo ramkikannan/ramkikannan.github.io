@@ -85,6 +85,9 @@ about: true
 # if you don't need research, comment the *research* configs below
 research: true
 
+# if you don't need teaching, comment the *research* configs below
+teaching: true
+
 # if you don't need publications, comment the *publications* configs below
 publications: true
 
@@ -110,7 +113,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-gist
   - jekyll-feed
-  - jemoji
+#  - jemoji
   - jekyll-admin
   - jekyll-sitemap
 
