@@ -50,13 +50,13 @@ This course is taught under the Georgia Tech Honor Code. In the context of this 
 For group assignments, project submissions, or of projects that are part of a larger on-going project, the final report has a required section in which each student must detail which portions of the work were completed individually and which portions were the work of others.
 </p>
 
-The course has three components: 
+The course has three components: <br/>
 
-- Four Programming Assignments -30%
-- Shared memory - 5%
-- Accelerated - 5%
-- Distributed memory - 10%
-- Final complexity and performance analysis - 10%
+Four Programming Assignments -30%
+ - Shared memory - 5%
+ - Accelerated - 5%
+ - Distributed memory - 10%
+ - Final complexity and performance analysis - 10%
 
 <p style='text-align: justify;'>
 All assignments must run complying the output specifications. We will be downloading all the project codes and running a script to evaluate the project. If the code is not complying to specification, you can get 0 points as if it didnt run. 
@@ -66,22 +66,20 @@ The assignment winner is the one with the top-performing code. For each assignme
 
 Mid term - 10%
 
-Final Group Project - Depending on the class size, we will decide the group size
-	- Proposal - 15%
-	- Demonstration - 15%
-	- Report - 15%
-	- Final Presentation - 15%
+Final Group Project - 60% 
+- Proposal - 15%
+- Demonstration - 15%
+- Report - 15%
+- Final Presentation - 15%
 
 <p style='text-align: justify;'>
-You must achieve an overall weighted average of 60% to pass the course.
-
 All deliverables and exams will be graded by TA. The project proposal and final presentation will be graded by both the TA and the course instructor.
 </p>
 
 ### PREREQUISITES
 
 <p style='text-align: justify;'>
-You should be comfortable with sequential programming in “mainstream” general-purpose compiled languages, such as Fortran, C, C++, or Java. You can also use Python. Familiarity with basic algorithm analysis (i.e., big-O notation) is also helpful. 
+You should be comfortable with sequential programming in “mainstream” general-purpose compiled languages, such as Fortran, C, C++. Familiarity with basic algorithm analysis (i.e., big-O notation) is also helpful. 
 </p>
 
 <u>Preferred Courses</u> - 
@@ -104,14 +102,19 @@ Almost all homework assignments involve very large amount of programming tasks (
 
 ### Office hours:
 
+Thursday's 2-3pm EST. I will keep a zoom/teams room open as well. 
+
 ### TA and office hours:
 
 
 ### Announcements and Discussion
 <p style='text-align: justify;'>
 We use Piazza for all announcements and discussion. Everyone must join this class's Piazza (link available on Canvas). Double check that you are joining the correct Piazza! There are multiple concurrent course sections with the same name and course number taking place, e.g., online for OMSA and OMSCS, and campus for Atlanta-based students.
+</p>
 
 [CSE 6230 Piazza Link](https://piazza.com/gatech/spring2023/cse6230)
+
+<p style='text-align: justify;'>
 
 The fastest way to get help with homework assignments is to post your questions on Piazza. That way, not only our TAs and instructor can help, your peers can too.
 
@@ -149,7 +152,7 @@ No penalties for medical reasons or emergencies. And should they arise, you must
 ### Attendance Policy
 
 <p style='text-align: justify;'>
-This is a hybrid course – with some in-class lectures and some over zoom/teams. All the classes will be recorded over zoom for future reference. We request the students to mute their mic and video while joining the lectures remotely. The zoom/teams lectures will also be projected in the class room. 
+This is a hybrid course – with some in-class lectures and some over zoom/teams. All the classes will be recorded over zoom for future reference. We request the students to mute their mic and video while joining the lectures remotely. The zoom/teams lectures will also be projected in the class room. We will send the zoom link to all the registered students. Students who didnt get the email from us, send the TA or the instructor an email to get the link. 
 
 Login regularly to complete your work, so that you do not have to spend a lot of time reviewing and refreshing yourself regarding the content.
 </p>
@@ -159,11 +162,11 @@ Login regularly to complete your work, so that you do not have to spend a lot of
 
 | Day     | Title                                                   | Lecture by        | Type              | Slides       | Recorded Video | Notes                                                                                | Deadlines                             |
 | ------- | ------------------------------------------------------- | ----------------- | ----------------- | ------------ | -------------- | ------------------------------------------------------------------------------------ | ------------------------------------- |
-| 1/10/23 | Introduction I                                          | Ramki and Shruthi | In Class and Zoom |              |                |                                                                                      |                                       |
-| 1/12/23 | Introduction II                                         | Ramki and Shruthi | In Class and Zoom |              |                |                                                                                      |                                       |
+| 1/10/23 | Introduction I                                          | Ramki and Shruti | In Class and Zoom |              |                |                                                                                      |                                       |
+| 1/12/23 | Introduction II                                         | Ramki and Shruti | In Class and Zoom |              |                |                                                                                      |                                       |
 | 1/17/23 | OpenMP                                                  | Ramki             | Zoom              |              |                | Assignment 1 Announcement                                                            |                                       |
-| 1/19/23 | CUDA                                                    | Ramki             | In Class and Zoom |              |                |                                                                                      |                                       |
-| 1/24/23 | MPI                                                     | Ramki             | Zoom              |              |                |                                                                                      |                                       |
+| 1/19/23 | MPI                                                    | Ramki             | In Class and Zoom |              |                |                                                                                      |                                       |
+| 1/24/23 | CUDA                                                     | Ramki             | Zoom              |              |                |                                                                                      |                                       |
 | 1/26/23 | HIP and AMD devices                                     | Jakub Kurzak      | Zoom              |              |                | Assignment 2 Announcement                                                            | Assignment 1 Due                      |
 | 1/31/23 | Parallel IO                                             | Jong-Choi Youl    | Zoom              |              |                |                                                                                      |                                       |
 | 2/2/23  | Logging and Debugging                                   | Ramki             | In Class and Zoom |              |                |                                                                                      |                                       |
