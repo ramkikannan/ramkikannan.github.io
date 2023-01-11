@@ -4,7 +4,7 @@ title: Teaching
 sitemap: true
 ---
 
-## CSE 6230 : HPC Tools and Applications - Spring'23
+## CSE 6230 : High Performance Parallel Computing - Spring'23
 
 ### Course Objective
 
