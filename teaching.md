@@ -53,7 +53,8 @@ For group assignments, project submissions, or of projects that are part of a la
 The course has three components: <br/>
 
 Four Programming Assignments -30%
- - Shared memory - 5%
+ - Setting up github classroom - 1%
+ - Shared memory - 4%
  - Accelerated - 5%
  - Distributed memory - 10%
  - Final complexity and performance analysis - 10%
@@ -102,10 +103,11 @@ Almost all homework assignments involve very large amount of programming tasks (
 
 ### Office hours:
 
-Thursday's 2-3pm EST. I will keep a zoom/teams room open as well. 
+Thursday's 2-3pm EST. Check the class Piazza for obtaining the zoom link.
 
 ### TA and office hours:
 
+Tuesday's - 3:45-4:45pm. Check the class Piazza for obtaining the zoom link.
 
 ### Announcements and Discussion
 <p style='text-align: justify;'>
@@ -163,8 +165,8 @@ Login regularly to complete your work, so that you do not have to spend a lot of
 | Day     | Title                                                   | Lecture by        | Type              | Slides       | Recorded Video | Notes                                                                                | Deadlines                             |
 | ------- | ------------------------------------------------------- | ----------------- | ----------------- | ------------ | -------------- | ------------------------------------------------------------------------------------ | ------------------------------------- |
 | 1/10/23 | Introduction I                                          | Ramki and Shruti | In Class and Zoom |              |  [Video](https://youtu.be/56U0NUTr_14)              |                                                                                      |                                       |
-| 1/12/23 | Introduction II                                         | Ramki and Shruti | In Class and Zoom |              |                |                                                                                      |                                       |
-| 1/17/23 | OpenMP                                                  | Ramki             | Zoom              |              |                | Assignment 1 Announcement                                                            |                                       |
+| 1/12/23 | Introduction II                                         | Ramki and Shruti | In Class and Zoom |              |                | Assignment 0 Announcement                                                                                      |                                       |
+| 1/17/23 | OpenMP                                                  | Ramki             | Zoom              |              |                | Assignment 1 Announcement                                                            |                                       | Assignment 0 Due
 | 1/19/23 | MPI                                                    | Ramki             | In Class and Zoom |              |                |                                                                                      |                                       |
 | 1/24/23 | CUDA                                                     | Ramki             | Zoom              |              |                |                                                                                      |                                       |
 | 1/26/23 | HIP and AMD devices                                     | Jakub Kurzak      | Zoom              |              |                | Assignment 2 Announcement                                                            | Assignment 1 Due                      |
