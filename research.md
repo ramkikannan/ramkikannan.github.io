@@ -7,6 +7,7 @@ sitemap: true
 
 |Year    | Agency    | Role  |Description    | Amount (in USD)   |
 |:------  | :-----     | :----- |:-------        | ------:      |
+2022-2027 | DOE | Deputy Director |  [Sparsitute](sparsitute.lbl.gov) | $14,000,000
 2020-2024 | DOE | co-PI |  Advances in Machine Learning to Improve Scientific Discovery at Exascale and Beyond (ASCEND) | $1,200,000
 2019-2023 | DOE | co-PI | Exalearn : Exascale Machine Learning Technologies | $3,000,000
  2017-19 |DOE-LDRD  | PI    | Scalable Non-linear Unmixing with Physical Constraints for Scientific Data    | $900,000 |

@@ -187,7 +187,7 @@ Login regularly to complete your work, so that you do not have to spend a lot of
 | 3/21/23 | Spring Break                                            | Spring Break      | Spring Break      | Spring Break |                |                                                                                      | Spring Break                          
 | 3/23/23 | Spring Break                                            | Spring Break      | Spring Break      | Spring Break |                |                                                                                      | Spring Break                          
 | 3/28/23 | HPC and Graph Algorithms                                | Aydin Buluc       | Zoom              |[Slides](6230/slides/aydin_graphalgorithms.pdf)              |[Video](https://youtu.be/yRDqNiNOIj8)                |                                                                                      |            
-| 3/30/23 | HPC/ML - Linear Regression and Dimensionality Reduction | Srinivas Eswar    | Zoom              |              |                |                                                                                      |           
+| 3/30/23 | HPC/ML - Linear Regression and Dimensionality Reduction | Srinivas Eswar    | Zoom              |[Slides](6230/slides/srini_dimensionality_reduction.pdf)[Notebook](6230/slides/RandSVD.ipynb)              | [Video](https://youtu.be/dwRjKHVF_OE)               |                                                                                      |           
 | 4/4/23  | Climate Simulations                     | Sarat Sreepathi       | Zoom              |              |                |                                                                                      |
 | 4/6/23  | Assignment Winners Lecture                                           | Students |                   |              |                |                                                                                      | Demonstration I during office hours   
 | 4/11/23 |   HPC/ML - Deep learning optimizations                                   |Guojing Cong         |                  |              |                |                                                                                      |
@@ -196,4 +196,20 @@ Login regularly to complete your work, so that you do not have to spend a lot of
 | 4/20/23 | Final Presentation                                      |                   |                   |              |                |                                                                                      | Demonstration III during office hours 
 | 4/25/23 | Final Presentation                                      |                   |                   |              |                |
 | 4/27/23 |                                                         |                   |                   |              |                |                                                                                      |                                       
-| 5/2/23  |                                                         |                   |                   |              |                |                                                                                      | Final Report Due                      
+| 5/2/23  |                                                         |                   |                   |              |                |                                                                                      | Final Report Due 
+
+### Student's Course Projects
+
+For project details, please look at the proposal slides lecture on 3/14 and 3/14 and the final presentation
+
+* Accelerating K-means Clustering	
+* Accelerating Proximal Policy Optimization (PPO)	
+* GPU-Accelerated Algebraic Multigrid Methods (AMG)	
+* FLIP Fluid simulations on CUDA
+* GPU-Accelerated Vortex Particle Method	
+* GPU-Accelerated Electromagnetic Mode Solvers for High Performance Computing 
+* Applications	Performance Analysis of Proxy-apps for Computational Chemistry Methods	
+* Ray Tracing/Wavelet Transform Acceleration	
+* Parallel Framework for Particle Dynamics Simulation	
+* Distributed Hyperparameter Tuning for ML Potentials	
+* Accelerate Tensor Computation Leveraing TVM and SIMD on ARM CPU
