@@ -192,9 +192,9 @@ Login regularly to complete your work, so that you do not have to spend a lot of
 | 4/6/23  | Assignment Winners Lecture                                           | Students | In Class                   | [PDF Slides](6230/slides/assignment_winners.pdf), [Devashish Assignment2](6230/slides/devashish_assignment2.ppsx)             | [Video](https://youtu.be/fCcA1I_7QUg)                |                                                                                      |    
 | 4/11/23 |   HPC/ML - Deep learning optimizations                                   |Guojing Cong         |  Zoom                | [Slides](6230/slides/guojing-talk-gatech-23.pdf)             |  [Video](https://youtu.be/Cteoc-vo-34)               |                                                                                      |
 | 4/13/23 | Particle Acceleration Simulation                        | Axel Huebl/Jean-Luc Vay | Zoom                  |  [Slides](6230/slides/WarpX-GATech-2023-04-13.pdf)            |  [Video](https://youtu.be/2ug1ww0Ygv8)              |                                                                                      | Demonstration I during office hours  
-| 4/18/23 | Final Presentation                                      | In Class                   |                    | [Slides](6230/slides/418_day1_final_presentation.pdf)             |  [Video](https://youtu.be/F8sNcFXRP0Q)              |                                                                                      |                                       
-| 4/20/23 | Final Presentation                                      |                   |                   |              |                |                                                                                      | Demonstration II during office hours 
-| 4/25/23 | Final Presentation                                      |                   |                   |              |                |
+| 4/18/23 | Final Presentation                                      |      Students              | In Class                   | [Slides](6230/slides/418_day1_final_presentation.pdf)             |  [Video](https://youtu.be/F8sNcFXRP0Q)              |                                                                                      |                                       
+| 4/20/23 | Final Presentation                                      | Students                  | In Class                  | [Slides](6230/slides/420_day2_final_presentation.pdf)             |  No Video available             |                                                                                      | Demonstration II during office hours 
+| 4/25/23 | Final Presentation                                      |  Students                  |    In class               |   [Slides](6230/slides/425_day3_finalpresentation.pdf)           | [Video](https://youtu.be/gGnt5fGeHz0)               |
 | 4/27/23 |                                                         |                   |                   |              |                |                                                                                      | Demonstration III during office hours                                       
 | 5/2/23  |                                                         |                   |                   |              |                |                                                                                      | Final Report Due 
 
@@ -208,8 +208,8 @@ For project details, please look at the proposal slides lecture on 3/14 and 3/14
 * FLIP Fluid simulations on CUDA
 * GPU-Accelerated Vortex Particle Method	
 * GPU-Accelerated Electromagnetic Mode Solvers for High Performance Computing 
-* Applications	Performance Analysis of Proxy-apps for Computational Chemistry Methods	
+* [Applications	Performance Analysis of Proxy-apps for Computational Chemistry Methods](https://github.com/shehan807/ParrLO)
 * Ray Tracing/Wavelet Transform Acceleration	
-* Parallel Framework for Particle Dynamics Simulation	
+* [Parallel Framework for Particle Dynamics Simulation](https://github.com/Mi-Dora/Parallel-Framework-for-Particle-Dynamics-Simulation)
 * Distributed Hyperparameter Tuning for ML Potentials	
 * Accelerate Tensor Computation Leveraing TVM and SIMD on ARM CPU
