@@ -8,7 +8,7 @@ sitemap: true
 |Year    | Agency    | Role  |Description    | Amount (in USD)   |
 |:------  | :-----     | :----- |:-------        | ------:      |
 2022-2027 | DOE | Deputy Director |  [Sparsitute](sparsitute.lbl.gov) | $14,000,000
-2020-2024 | DOE | co-PI |  Advances in Machine Learning to Improve Scientific Discovery at Exascale and Beyond (ASCEND) | $1,200,000
+2020-2024 | DOE | co-PI |  Advances in Machine Learning to Improve Scientific Discovery at Exascale and Beyond (ASCEND) | $4,800,000
 2019-2023 | DOE | co-PI | Exalearn : Exascale Machine Learning Technologies | $3,000,000
  2017-19 |DOE-LDRD  | PI    | Scalable Non-linear Unmixing with Physical Constraints for Scientific Data    | $900,000 |
  2017-19 | DOE-LDRD | co-PI  | Accelerating end-to-end prediction of physical phenomena by interleaving analytics with multiscale simulations on Exascale architectures | $600,000
@@ -28,17 +28,31 @@ sitemap: true
 
 ## Program Committees
 
-KDD'2015, CIKM'2015, ICDM'2015, KDD'2016, ICML'2017, KDD'2018,  KDD'2019, SC'2019, KDD'2020, SC'2021
+KDD'2015, CIKM'2015, ICDM'2015, KDD'2016, ICML'2017, KDD'2018,  KDD'2019, SC'2019, KDD'2020, SC'2021, SC'2022, SC'2023, SC'2024, AAAI'2024, IPDPS'2024
 
 ## Journal Reviewer
 
-TKDE, TPAMI, IEEE Signal Processing Letters, DAMI, JMLC, ESWA, TKDD, Entropy, Interfaces, KAIS, Information Sciences
+TKDE, TPAMI, IEEE Signal Processing Letters, DAMI, JMLC, ESWA, TKDD, Entropy, Interfaces, KAIS, Information Sciences, JBHI
 
 ## Honor and Awards
 
+* November 2023 : UT-Battelle Research Accomplishment Award
+* November 2022 : Gordon Bell Finalist in Super Computing
+* November 2020 : Gordon Bell Finalist in Super Computing
+* R&D 100 Award Finalist in 2020
 * November 2019: Lead the team that listed OLCF Summit at 3rd place on [Graph500](https://graph500.org/)
 * November 2020: Finalist, Gordon Bell Prize, ACM/IEEE Conf. Supercomputing (SC) (Winners to be announced in November 2020)
 
+## Media Coverage
+* [Not-so-plain sight](https://ascr-discovery.org/2023/06/not-so-plain-sight/)
+* [First Exascale Graph AI Demonstration](https://www.olcf.ornl.gov/2022/10/25/fast-tracking-medical-discovery/)
+* [R &amp; D 100 Awards Finalist](https://www.rdworldonline.com/finalists-for-2021-rd-100-awards-are-unveiled/)
+* [Gordon Bell Finalist Uses Supercomputing to Connect the Dots](https://www.olcf.ornl.gov/2022/10/25/fast-tracking-medical-discovery/)
+* [Four Teams Using ORNL Summit Supercomputer Named Finalists In 2020 Gordon Bell Prize](https://www.olcf.ornl.gov/2020/11/10/four-teams-using-ornls-summit-supercomputer-named-finalists-in-2020-gordon-bell-prize/)
+* [ORNL SNAPSHOT](https://www.youtube.com/watch?v=s4Trj90QN5I&t=3s)
+* [Mining for COVID Connections](https://www.olcf.ornl.gov/2020/05/18/mining-for-covid-19-connections/)
+* [Summit Rank ON Graph500 List Using Only A Fration Of Its Comput- ing Power](https://www.olcf.ornl.gov/2020/04/29/summit-ranks-on-graph500-list-using-only-a-fraction-of-its-computing-power/)
+* [ACM Connecting the Bytes](https://cacm.acm.org/careers/212567-connecting-the-bytes/fulltext)
 
 ## Invited Talks
 
