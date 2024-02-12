@@ -20,15 +20,16 @@ sitemap: true
 ## Organizing Committees
 
 * Minisymposium titled [Constrained Low-Rank Matrix and Tensor Approximations](http://users.wfu.edu/ballard/SIAM-ALA18/) in SIAM ALA18
-* [Fragile Earth - Theory Guided Data Science to Enhance Scientific Discovery (FEED)](https://ai4good.org/what-we-do/fragile-earth/kdd-2018/) Workshop at KDD'2018
-* [Fragile Earth - Theory Guided Data Science to Enhance Scientific Discovery (FEED)](https://ai4good.org/what-we-do/fragile-earth/kdd-2019/) Workshop at KDD'2019
-* [Fragile Earth - Theory Guided Data Science to Enhance Scientific Discovery (FEED)](https://ai4good.org/what-we-do/fragile-earth/kdd-2020/) Workshop at KDD'2020
-* [ORNL AI Workshop 2019](https://ornlcda.github.io/ornlaiws2019/) 
+* Fragile Earth - Theory Guided Data Science to Enhance Scientific Discovery (FEED) Workshop at [KDD'2018](https://ai4good.org/what-we-do/fragile-earth/kdd-2018/), [KDD'19](https://ai4good.org/what-we-do/fragile-earth/kdd-2019/), [KDD'20](https://ai4good.org/what-we-do/fragile-earth/kdd-2020/), [KDD'21](https://ai4good.org/what-we-do/fragile-earth/kdd-2021/), [KDD'22](https://ai4good.org/what-we-do/fragile-earth/kdd-2022/), [KDD'23](https://ai4good.org/what-we-do/fragile-earth/kdd-2023/)
+* ORNL Core Universities AI Workshop -- 2019, 2022, 2023, 2024
 * [PHYSICS-GUIDED AI TO ACCELERATE SCIENTIFIC DISCOVERY](https://sites.google.com/vt.edu/pgai-aaai-20)
+* [2023 Sparse Tensor Workshop](https://solomonik.cs.illinois.edu/tensor_workshop/index.html)
+* [AAAI Bridge On Knowledge-Guided Machine Learning](https://sites.google.com/vt.edu/kgml-bridge-aaai-24/)
+
 
 ## Program Committees
 
-KDD'2015, CIKM'2015, ICDM'2015, KDD'2016, ICML'2017, KDD'2018,  KDD'2019, SC'2019, KDD'2020, SC'2021, SC'2022, SC'2023, SC'2024, AAAI'2024, IPDPS'2024
+KDD'2015, CIKM'2015, ICDM'2015, KDD'2016, ICML'2017, KDD'2018,  KDD'2019, SC'2019, KDD'2020, SC'2021, SC'2022, SC'2023, ICML'2023, SC'2024, AAAI'2024, IPDPS'2024
 
 ## Journal Reviewer
 
@@ -44,6 +45,7 @@ TKDE, TPAMI, IEEE Signal Processing Letters, DAMI, JMLC, ESWA, TKDD, Entropy, In
 * November 2020: Finalist, Gordon Bell Prize, ACM/IEEE Conf. Supercomputing (SC) (Winners to be announced in November 2020)
 
 ## Media Coverage
+* [Learning with the Flow](https://www.olcf.ornl.gov/2023/05/19/learning-with-the-flow/)
 * [Not-so-plain sight](https://ascr-discovery.org/2023/06/not-so-plain-sight/)
 * [First Exascale Graph AI Demonstration](https://www.olcf.ornl.gov/2022/10/25/fast-tracking-medical-discovery/)
 * [R &amp; D 100 Awards Finalist](https://www.rdworldonline.com/finalists-for-2021-rd-100-awards-are-unveiled/)
