@@ -1,6 +1,6 @@
 # main text of home
 name: Ramakrishnan(Ramki) Kannan
-bio: Group Lead for Discrete Algorithms
+bio: Distinguished Scientist and Group Lead for Discrete Algorithms
 
 # twitter summary info
 description: Personal Website of Ramki
@@ -58,7 +58,7 @@ email: kannanr@ornl.gov
 authors:
     ramkikannan:
         name: Ramakrishnan(Ramki) Kannan
-        bio: Computational Data Scientist & Joint Faculty GATech
+        bio: Distinguished Scientist & Joint Faculty GATech
         external-image: false
         picture: assets/images/profile.jpg
         # twitter: johndoe
