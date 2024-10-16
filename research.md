@@ -7,6 +7,8 @@ sitemap: true
 
 |Year    | Agency    | Role  |Description    | Amount (in USD)   |
 |:------  | :-----     | :----- |:-------        | ------:      |
+2022-2027 | DOE | co-PI |  ENGAGE: ENGAGE:Energy-efficient Novel Algorithms and Architec- tures for Graph Learning | $6,900,000
+2022-2027 | DOE | Thrust Lead |  AI-GREEC: Artificial Intelligence and Knowledge Graphs to Accelerate Energy- Efficient Computing | $3,200,000
 2022-2027 | DOE | Deputy Director |  [Sparsitute](sparsitute.lbl.gov) | $14,000,000
 2020-2024 | DOE | co-PI |  Advances in Machine Learning to Improve Scientific Discovery at Exascale and Beyond (ASCEND) | $4,800,000
 2019-2023 | DOE | co-PI | Exalearn : Exascale Machine Learning Technologies | $3,000,000
