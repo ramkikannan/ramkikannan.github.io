@@ -70,11 +70,6 @@ sitemap: true
                 <p><em>Advisor: Professor Y. Narahari</em></p>
             </div>
         </section>
-
-        <section class="about-section">
-            <h2>Principal Investigator</h2>
-            <p><a href="https://ramkikannan.github.io/planc-api" target="_blank">Parallel Low Rank Approximation with Non-negative Constraints (PLANC)</a></p>
-        </section>
     </div>
 </div>
 
