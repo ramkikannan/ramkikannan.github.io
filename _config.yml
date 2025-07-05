@@ -91,6 +91,12 @@ teaching: true
 # if you don't need publications, comment the *publications* configs below
 publications: true
 
+# if you don't need book, comment the *book* configs below
+book: true
+
+# if you don't need contact, comment the *contact* configs below
+contact: true
+
 # do you want to show the "read time" of the posts?
 read-time: true
 

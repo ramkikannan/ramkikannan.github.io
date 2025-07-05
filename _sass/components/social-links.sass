@@ -1,17 +1,30 @@
 .social-links
-    margin-top: 20px
+    margin-top: 1.5rem
+    display: flex
+    justify-content: center
+    gap: 1rem
 
     > .link
         margin: 0
         text-decoration: none
         position: relative
-        display: inline-block
-        height: 35px
-        width: 35px
+        display: inline-flex
+        align-items: center
+        justify-content: center
+        height: 40px
+        width: 40px
+        border-radius: 50%
+        background-color: #f8f9fa
+        border: 1px solid $border
+        transition: all 0.3s ease
 
         &:hover
+            background-color: $accent
+            border-color: $accent
+            transform: translateY(-2px)
+
             > .icon
-                fill: $delta
+                fill: white
 
         &:hover:before
             opacity: 1
@@ -23,26 +36,27 @@
             content: attr(data-title)
             display: none
             position: absolute
-            bottom: -34px
-            left: -6px
+            bottom: -40px
+            left: 50%
+            transform: translateX(-50%)
             margin: 0 auto
-            font-size: 13px
-            padding: 3px 10px
+            font-size: 12px
+            padding: 6px 12px
             background: $beta
             color: #fff
-            border-radius: 2px
-            height: 22px
-            line-height: 22px
+            border-radius: 6px
+            height: auto
+            line-height: 1
             opacity: 0
             transition: opacity 150ms linear, transform 150ms linear, -webkit-transform 150ms linear
-            transform: translate3d(0,-8px,0)
             z-index: 99
 
         &:after
             content: ""
             position: absolute
-            top: 35px
-            left: 13px
+            top: 40px
+            left: 50%
+            transform: translateX(-50%)
             width: 0
             height: 0
             border-left: 5px solid transparent
@@ -50,12 +64,13 @@
             border-bottom: 6px solid $beta
             opacity: 0
             transition: opacity 150ms linear, transform 150ms linear, -webkit-transform 150ms linear
-            transform: translate3d(0,-8px,0)
             z-index: 100
 
         &:hover:after
             opacity: 1
-            transform: translate3d(0,0,0)
 
     > .icon
-        transition: all ease-in-out .2s
+        transition: all ease-in-out 0.3s
+        fill: $alpha
+        width: 20px
+        height: 20px

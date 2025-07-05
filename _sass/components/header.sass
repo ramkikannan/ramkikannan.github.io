@@ -4,31 +4,62 @@
     text-align: center
     position: relative
     z-index: 99
+    padding: 4rem 0
 
-    > .link > .selfie
-        width: 125px
-        margin-bottom: 25px
-        border-radius: 100%
-        transition: all .2s
-        box-shadow: 0
-        opacity: 1
+    .header-content
+        display: flex
+        flex-direction: column
+        align-items: center
+        gap: 2rem
+
+        @media #{$above}
+            flex-direction: row
+            text-align: left
+            gap: 3rem
+
+    > .link > .selfie,
+    .header-content > .link > .selfie
+        width: 140px
+        height: 140px
+        object-fit: cover
+        border-radius: 50%
+        transition: all 0.3s ease
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1)
 
         &:hover
-            box-shadow: 0 0px 4px 0 rgba(0,0,0,0.18), 0 0px 12px 0 rgba(0,0,0,0.15)
-            opacity: .8
+            transform: translateY(-2px)
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15)
 
-    > .title
-        font-size: 4rem
-        margin: 0 0 13px
+    .header-text
+        flex: 1
+        display: flex
+        flex-direction: column
+        align-items: center
 
-    > .description
-        font-size: 1.85rem
-        font-weight: 300
-        font-style: normal
+    > .title,
+    .header-text > .title
+        font-size: 3.5rem
+        font-weight: 700
+        margin: 0 0 1rem
+        color: $beta
+        line-height: 1.2
+
+        @media #{$mobile}
+            font-size: 2.8rem
+
+    > .description,
+    .header-text > .description
+        font-size: 1.4rem
+        font-weight: 400
         color: $alpha
-        width: 70%
-        margin: 0 auto 30px
+        margin: 0 0 2rem
+        line-height: 1.6
+        max-width: 600px
+
+        @media #{$mobile}
+            font-size: 1.2rem
 
         // if you put some links in your bio. ;)
         a
-            font-weight: 200
+            font-weight: 400
+            color: $accent
