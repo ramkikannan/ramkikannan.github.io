@@ -1,54 +1,60 @@
 <nav class="{% if page.title == "Home" %}nav-home{% else %}nav{% endif %}">
     <ul class="list">
         <li class="item">
-            <a class="link {% if page.title == "Home" %}active{% endif %}" href="{{ site.url }}/">Home</a>
+            <a class="link {% if page.title == "Home" %}active{% endif %}" href="{{ site.url }}/">🏠 Home</a>
         </li>
 
         {% if site.blog == true %}
             <li class="item">
-                <a class="link {% if page.title == "Blog" %}active{% endif %}" href="{{ site.url }}/blog">Blog</a>
+                <a class="link {% if page.title == "Blog" %}active{% endif %}" href="{{ site.url }}/blog">📝 Blog</a>
             </li>
         {% endif %}
 
         {% if site.about == true %}
             <li class="item">
-                <a class="link {% if page.title == "About" %}active{% endif %}" href="{{ site.url }}/about">About</a>
+                <a class="link {% if page.title == "About" %}active{% endif %}" href="{{ site.url }}/about">👨‍💻 About</a>
             </li>
         {% endif %}
 
         {% if site.research == true %}
             <li class="item">
-                <a class="link {% if page.title == "Research" %}active{% endif %}" href="{{ site.url }}/research">Research</a>
+                <a class="link {% if page.title == "Research" %}active{% endif %}" href="{{ site.url }}/research">🔬 Research</a>
             </li>
         {% endif %}
 
         {% if site.publications == true %}
             <li class="item">
-                <a class="link {% if page.title == "Publications" %}active{% endif %}" href="{{ site.url }}/publications">Publications</a>
+                <a class="link {% if page.title == "Publications" %}active{% endif %}" href="{{ site.url }}/publications">📚 Publications</a>
             </li>
         {% endif %}
 
         {% if site.teaching == true %}
             <li class="item">
-                <a class="link {% if page.title == "Teaching" %}active{% endif %}" href="{{ site.url }}/teaching">Teaching</a>
+                <a class="link {% if page.title == "Teaching" %}active{% endif %}" href="{{ site.url }}/teaching">🎓 Teaching</a>
+            </li>
+        {% endif %}
+
+        {% if site.tutorials == true %}
+            <li class="item">
+                <a class="link {% if page.title == "Tutorials" %}active{% endif %}" href="{{ site.url }}/tutorials">🎯 Tutorials</a>
             </li>
         {% endif %}
 
         {% if site.book == true %}
             <li class="item">
-                <a class="link {% if page.title == "Book" %}active{% endif %}" href="{{ site.url }}/book">Book</a>
+                <a class="link {% if page.title == "Book" %}active{% endif %}" href="{{ site.url }}/book">📖 Book</a>
             </li>
         {% endif %}
 
         {% if site.contact == true %}
             <li class="item">
-                <a class="link {% if page.title == "Contact" %}active{% endif %}" href="{{ site.url }}/contact">Contact</a>
+                <a class="link {% if page.title == "Contact" %}active{% endif %}" href="{{ site.url }}/contact">📧 Contact</a>
             </li>
         {% endif %}
 
         {% if site.resume == true %}
             <li class="item">
-                <a class="link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">Résumé</a>
+                <a class="link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">📄 Résumé</a>
             </li>
         {% endif %}
     </ul>

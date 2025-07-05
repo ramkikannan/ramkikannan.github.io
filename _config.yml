@@ -88,6 +88,9 @@ research: true
 # if you don't need teaching, comment the *research* configs below
 teaching: true
 
+# if you don't need tutorials, comment the *tutorials* configs below
+# tutorials: true
+
 # if you don't need publications, comment the *publications* configs below
 publications: true
 
