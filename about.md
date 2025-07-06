@@ -16,11 +16,9 @@ sitemap: true
     <div class="about-content">
         <section class="about-section">
             <h2>Biography</h2>
-            <p>Ramki Kannan is the Distinguished R&D Staff and group leader for Discrete Algorithms at Oak Ridge National Laboratory. His research expertise are in distributed machine learning and graph algorithms on HPC platforms and their application to scientific data with a focus on accelerating scientific discovery by reducing computation time from weeks to seconds.</p>
+            <p>Ramki Kannan is the Distinguished Research and Development Staff and Group Leader for the Discrete Algorithms group at Oak Ridge National Laboratory. His research expertise encompasses distributed machine learning and graph algorithms on HPC platforms and their application to scientific data, with a focus on accelerating scientific discovery by reducing computation times from weeks to seconds. He led Distributed Accelerated Semiring All-Pairs Shortest Path(SNAPSHOT)—a COVID-19 project that was a finalist for the Association for Computing Machinery's Gordon Bell Award in both 2020 and 2022. Under his leadership, Summit achieved third place on the Graph500 benchmark using minimal resources—the first time an Oak Ridge Leadership Computing Facility system ranked on Graph500. He also led the team that demonstrated 1 ExaFLOPS on a Knowledge Graph AI application for the first time on Frontier, a project recognized with the UT-Battelle Research Accomplishment Award in 2023. Dr. Kannan has secured over $16 million as lead principal investigator and over $19 million are co-principal investigator in research funding from various agencies to address algorithmic challenges on HPC platforms and has served as project lead for over $1 million in Department of Defense projects. He is currently the co-director for the DOE Mathematical Multifaceted Integrated Capability Center (MMICC) Sparsitute. Additionally, along with Professor Anuj Karpatne of Virginia Tech and Professor Vipin Kumar of the University of Minnesota, he authored the book "Knowledge-guided Machine Learning," published in 2022. With over 26 patents issued by the United States Patent and Trademark Office, he was recognized as an International Business Machines Corporation Master Inventor. He earned his Ph.D. under the guidance of Professor Haesun Park at the Georgia Institute of Technology and Master of Science in Engineering from the Indian Institute of Science under Professor Y. Narahari.</p>
 
-            <p>He was the lead for DSNAPSHOT for a COVID-19 project, which is a finalist for the esteemed Association of Computing Machinery's Gordon Bell Award in 2020 and 2022, and listing Summit in 3rd place on Graph500 benchmark using the fewest resources; this is the first time an OLCF system has ranked in Graph500.</p>
-
-            <p>He led the team that demonstrated 1 ExaFLOPS on a KnowledgeGraph AI application for the first time in Frontier and this project was recognized with UT-Battelle Research Accomplishment Award in 2023.</p>
+            <p>In short, A person with an innovation-first mindset, capable of identifying real-world problems and challenges, approaching solutions with a scientific perspective, collaborating effectively with stakeholders, and delivering impactful products that positively influence the world. This capability stems from a well-rounded background, encompassing 10 years of industry product engineering, 10 years of research experience in a government lab, and 6 years in academia, providing both breadth and depth in interdisciplinary fields.</p>
         </section>
 
         <section class="about-section">
@@ -31,35 +29,22 @@ sitemap: true
                         <h3>Distinguished R&D Staff & Group Leader</h3>
                         <span class="experience-date">2016 - Present</span>
                     </div>
-                    <p class="experience-org">Oak Ridge National Laboratory</p>
-                    <p class="experience-desc">Leading Discrete Algorithms group, managing $35M+ in research funding, pioneering exascale AI applications on world's fastest supercomputers.</p>
+                    <p class="experience-org">Oak Ridge National Laboratory, Oak Ridge, TN</p>
                 </div>
-                <!-- <div class="experience-item">
-                    <div class="experience-header">
-                        <h3>Senior R&D Staff</h3>
-                        <span class="experience-date">2015 - 2018</span>
-                    </div>
-                    <p class="experience-org">Oak Ridge National Laboratory</p>
-                    <p class="experience-desc">Developed scalable machine learning algorithms for HPC systems, led COVID-19 variant tracking research.</p>
-                </div> -->
                 <div class="experience-item">
                     <div class="experience-header">
-                        <h3>Research Staff Member & Master Inventor</h3>
+                        <h3>Technical Staff Member & Master Inventor</h3>
                         <span class="experience-date">2010 - 2011</span>
                     </div>
-                    <p class="experience-org">IBM Research</p>
-                    <p class="experience-desc">Invented novel algorithms for big data analytics and achieved IBM Master Inventor status.</p>
+                    <p class="experience-org">IBM Watson Research Center, Yorktown Heights, NY</p>
                 </div>
                 <div class="experience-item">
                     <div class="experience-header">
                         <h3>Advisory Software Engineer</h3>
                         <span class="experience-date">2000 - 2010</span>
                     </div>
-                    <p class="experience-org">IBM Corporation</p>
-                    <p class="experience-desc">Led enterprise software development and architecture initiatives across multiple host integration product lines. Designed and implemented scalable solutions for business intelligence, data management, and enterprise integration platforms. Mentored engineering teams and drove technical innovation in host integration systems.</p>
+                    <p class="experience-org">IBM Corporation, Bengaluru, India</p>
                 </div>
-
-
             </div>
         </section>
 
@@ -83,6 +68,17 @@ sitemap: true
                     <p>Distributed graph processing and analysis on high-performance computing platforms</p>
                 </div>
             </div>
+        </section>
+
+        <section class="about-section">
+            <h2>Leadership & Recognition</h2>
+            <ul class="achievements">
+                <li>Deputy Director for the DOE Mathematical Multifaceted Integrated Capability Center (MMICC) <a href="https://sparsitute.lbl.gov" target="_blank">Sparsitute</a></li>
+                <li>Awarded over $35M in research funding from various agencies</li>
+                <li>Project lead for over $1M in Department of Defense projects</li>
+                <li>IBM Master Inventor, 24+ patents issued in USPTO</li>
+                <li>Co-author of book "Knowledge-guided Machine Learning" (2022)</li>
+            </ul>
         </section>
 
         <section class="about-section">

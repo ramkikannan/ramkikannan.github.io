@@ -4,7 +4,9 @@ title: Publications
 sitemap: true
 ---
 
-## Selected Publications ([DBLP List](https://dblp.uni-trier.de/pers/hd/k/Kannan:Ramakrishnan))
+## Selected Publications
+
+*[Complete DBLP List](https://dblp.uni-trier.de/pers/hd/k/Kannan:Ramakrishnan)*
 
 <!-- <div class="bibtex_display"></div> -->
 <div id="bibtex_display">
@@ -41,9 +43,13 @@ sitemap: true
     </div>
 </div>
 
+---
+
 ## Patents
 
-Check out [Google Scholar](https://scholar.google.com/citations?user={{ site.scholar }}).
+Check out [Google Patents](https://patents.google.com/?inventor=ramakrishnan+kannan&assignee=International+Business+Machines,UT-Battelle).
+
+---
 
 ## Other Publications
 

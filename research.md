@@ -31,7 +31,7 @@ sitemap: true
 
 ## Program Committees
 
-KDD'2015, CIKM'2015, ICDM'2015, KDD'2016, ICML'2017, KDD'2018,  KDD'2019, SC'2019, KDD'2020, SC'2021, SC'2022, SC'2023, ICML'2023, SC'2024, AAAI'2024, IPDPS'2024
+KDD'2015, CIKM'2015, ICDM'2015, KDD'2016, ICML'2017, KDD'2018,  KDD'2019, SC'2019, KDD'2020, SC'2021, SC'2022, SC'2023, ICML'2023, SC'2024, AAAI'2024, IPDPS'2024, KDD'2024, KDD'2025, SC'2025
 
 ## Journal Reviewer
 
@@ -60,8 +60,8 @@ TKDE, TPAMI, IEEE Signal Processing Letters, DAMI, JMLC, ESWA, TKDD, Entropy, In
 
 ## Invited Talks
 
-* IISC AANA National Meeting on Big Data, Encryption & Cyber Security, and Technology in Healthcare Chicago, IL, August 26th, 2018 - [Presentation](../files/iiscaana18.pdf) 
-* Practical Matrix Factorization for Spatial and Spatio-Temporal Data - [SSTDM workshop in ICDM 2018](https://research.csc.ncsu.edu/stac/conferences/ICDM-SSTDM17/) 
+* IISC AANA National Meeting on Big Data, Encryption & Cyber Security, and Technology in Healthcare Chicago, IL, August 26th, 2018 - [Presentation](../files/iiscaana18.pdf)
+* Practical Matrix Factorization for Spatial and Spatio-Temporal Data - [SSTDM workshop in ICDM 2018](https://research.csc.ncsu.edu/stac/conferences/ICDM-SSTDM17/)
 * Wakeforest University - 21-July-2017 - [Announcement](../figs/wakeforest.jpg) [Presentation](../files/wakeforest.pdf)
 * Distributed Nonnegative Tensor Low Rank Approximation for Large-Scale Clustering - Optimization Methods and Parallel Computing for Tensor Problems - Part I of II - SIAM CSE 2017 - [Abstract](http://meetings.siam.org/sess/dsp_talk.cfm?p=81557) [Presentation](../files/siamcse18.pdf)
 * SOA and zSeries, In the conference of Leverage the Smart SOA-IBM developerworks, Chennai, 2009

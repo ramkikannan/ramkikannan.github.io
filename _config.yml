@@ -85,6 +85,9 @@ about: true
 # if you don't need research, comment the *research* configs below
 research: true
 
+# if you don't need engineering, comment the *engineering* configs below
+engineering: true
+
 # if you don't need teaching, comment the *research* configs below
 teaching: true
 

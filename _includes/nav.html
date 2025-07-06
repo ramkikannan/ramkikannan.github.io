@@ -22,6 +22,12 @@
             </li>
         {% endif %}
 
+        {% if site.engineering == true %}
+            <li class="item">
+                <a class="link {% if page.title == "Engineering" %}active{% endif %}" href="{{ site.url }}/engineering">Engineering</a>
+            </li>
+        {% endif %}
+
         {% if site.publications == true %}
             <li class="item">
                 <a class="link {% if page.title == "Publications" %}active{% endif %}" href="{{ site.url }}/publications">Publications</a>
