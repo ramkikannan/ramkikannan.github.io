@@ -4,7 +4,7 @@ title: Teaching
 sitemap: true
 ---
 
-## Georgia Institute of Technology - CSE 6230 : High Performance Parallel Computing - Spring'23
+## Georgia Tech - CSE 6230 : High Performance Parallel Computing - Spring'23
 
 ### Course Objective
 
