@@ -119,45 +119,9 @@
     {% endif %}
 
     {% if site.email %}
-        <a class="link" data-title="Email: Click to reveal" href="#" onclick="revealEmail(this); return false;">
+        <a class="link" data-title="Contact" href="{{ site.url }}/contact">
             <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
         </a>
-        <script>
-            function revealEmail(element) {
-                // Obfuscated email parts - split to avoid scraping
-                var user = 'ramkikannan';
-                var domain = 'gmail';
-                var tld = 'com';
-                var email = user + '@' + domain + '.' + tld;
-
-                // Update the link
-                element.href = 'mailto:' + email;
-                element.setAttribute('data-title', email);
-                element.onclick = null; // Remove the onclick after first click
-
-                // Optionally show a tooltip or notification
-                var tooltip = document.createElement('div');
-                tooltip.textContent = 'Email: ' + email + ' (click to open)';
-                tooltip.style.cssText = 'position: absolute; background: #333; color: white; padding: 5px 10px; border-radius: 4px; font-size: 12px; white-space: nowrap; z-index: 1000; pointer-events: none;';
-
-                document.body.appendChild(tooltip);
-
-                var rect = element.getBoundingClientRect();
-                tooltip.style.left = (rect.left + window.scrollX) + 'px';
-                tooltip.style.top = (rect.bottom + window.scrollY + 5) + 'px';
-
-                setTimeout(function() {
-                    if (tooltip.parentNode) {
-                        tooltip.parentNode.removeChild(tooltip);
-                    }
-                }, 3000);
-
-                // Trigger the mailto after revealing
-                setTimeout(function() {
-                    window.location.href = element.href;
-                }, 100);
-            }
-        </script>
     {% endif %}
 
     <!-- US Patents Search Link -->
